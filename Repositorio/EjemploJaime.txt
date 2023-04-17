@@ -1,1 +1,4 @@
-lorem ipsum
+He borrado el "lorem ipsum".
+
+Añado estas líneas.
+		Fdo: Jaime Navas
