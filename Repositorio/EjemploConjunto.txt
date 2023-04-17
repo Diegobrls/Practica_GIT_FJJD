@@ -2,3 +2,5 @@
 =======
 Primera modificación del ejemplo conjunto (FCedillo98). Jorge ha estado aquí
 >>>>>>> Stashed changes
+
+buscando conflicto
